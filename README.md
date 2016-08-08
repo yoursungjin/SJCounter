@@ -26,4 +26,4 @@ The solution features:
 - NSCoding for serialization.
 - KVO for notifications from the changes of model.
 - Auto layout for the support of iPhone/iPad, portrait/landscape.
-- Customized table view cell.
+- Customized tableViewCell.
