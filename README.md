@@ -26,5 +26,5 @@ The solution features:
 - ARC
 - NSCoding for serialization.
 - KVO for notifications from the changes of model.
-- Auto layout for the support of iPhone/iPad, portrait/landscape.
+- Auto layout for the support of iPhone/iPad, and portrait/landscape.
 - Customized tableViewCell.
