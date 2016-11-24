@@ -7,7 +7,7 @@ I was asked to write a demo iOS app in Objective-C that displays a table of coun
 - A user can increment or decrement a counter value. <br>
 - Ordering, naming, and counter values should be persisted between app launches.
 
-## Requirements in detail.
+## Requirements in detail
 The app should feature the same functionality as the app seen in the demo video.<br>
 Click the image below to play the demo video.<br>
 
