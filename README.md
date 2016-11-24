@@ -8,7 +8,8 @@ I was asked to write a demo iOS app in Objective-C that displays a table of coun
 - Ordering, naming, and counter values should be persisted between app launches.
 
 ## Requirements in detail.
-The app should feature the same functionality as the app seen in the demo video below.
+The app should feature the same functionality as the app seen in the demo video.<br>
+Click the image below to play the demo video.<br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sLMPuT0Dqa4/0.jpg)](https://www.youtube.com/watch?v=sLMPuT0Dqa4)
 
