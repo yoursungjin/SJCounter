@@ -1,12 +1,13 @@
 # SJCounter
 
 ## Background
-I was asked to write a demo iOS app in Objective-C that displays a table of counters. <br> 
-A user can create, delete a counter. <br>
-A user can increment or decrement a counter value. <br>
-Ordering, naming, and counter values should be persisted between app launches.
+I was asked to write a demo iOS app in Objective-C that displays a table of counters<br> 
+, which should meet the main requirements as follows. <br>
+- A user can create, delete a counter. <br>
+- A user can increment or decrement a counter value. <br>
+- Ordering, naming, and counter values should be persisted between app launches.
 
-## Requirements
+## Requirements in detail.
 The app should feature the same functionality as the app seen in the demo video below.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sLMPuT0Dqa4/0.jpg)](https://www.youtube.com/watch?v=sLMPuT0Dqa4)
@@ -17,7 +18,7 @@ The app should:<br>
 - Allow a user to INCREMENT or DECREMENT a counter.<br>
 - Allow a user to DELETE a counter entry.<br>
 - Allow a user to REORDER the position of a counter.<br>
-- IMPORTANT: Should persist counter states (name, value, and position)
+- IMPORTANT: persist counter states (name, value, and position)
    so subsequent app-launches start up with the same state as when the user left it, including when the app is forcefully terminated. Incrementing/decrementing a counter after re-launch should alter the value from what it was last.
   
 ## Solution
